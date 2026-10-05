@@ -116,6 +116,7 @@ _version: 2
   pt-pt: "Direção do force feedback"
   zh: "力反馈方向"
   pl: "Kierunek force feedback"
+  cs: "Směr force feedbacku"
   fr: "Sens du retour de force"
   zh-tw: "力回饋方向"
 
@@ -125,6 +126,7 @@ _version: 2
   pt-pt: "Inverter o force feedback por predefinição"
   zh: "默认反转力反馈"
   pl: "Domyślnie odwracaj force feedback"
+  cs: "Invertovat force feedback ve výchozím nastavení"
   fr: "Inverser le retour de force par défaut"
   zh-tw: "預設反轉力回饋"
 
@@ -134,6 +136,7 @@ _version: 2
   pt-pt: "Volantes com uma direção guardada usam a própria configuração em Controlos → Controladores de jogo."
   zh: "已保存方向的方向盘在“控制 → 游戏手柄”中使用各自的设置。"
   pl: "Kierownice z zapisanym kierunkiem używają własnego ustawienia w sekcji Sterowanie → Kontrolery gier."
+  cs: "Volanty s uloženým směrem používají vlastní nastavení v nabídce Ovládání -> Herní ovladače."
   fr: "Les volants dont le sens est enregistré gardent leur propre réglage sous Commandes → Contrôleurs de jeu."
   zh-tw: "已儲存方向的輪子在「控制」→「遊戲控制器」下使用自己的設定。"
 
@@ -143,6 +146,7 @@ _version: 2
   pt-pt: "RISCO DE LESÃO: RETIRE AS MÃOS DO VOLANTE. Mantenha as mãos e os dedos afastados antes de iniciar e durante todo o teste."
   zh: "受伤风险：请把手从方向盘上移开。测试开始前及整个测试过程中,请让双手和手指远离方向盘。"
   pl: "RYZYKO URAZU: PUŚĆ KIEROWNICĘ. Trzymaj ręce i palce z dala od niej przed rozpoczęciem i przez cały czas trwania testu."
+  cs: "NEBEZPEČÍ ZRANĚNÍ: SUNDEJTE RUCE Z VOLANTU. Před spuštěním a po celou dobu testu držte ruce i prsty v bezpečné vzdálenosti."
   fr: "RISQUE DE BLESSURE : LÂCHEZ LE VOLANT. Gardez les mains et les doigts à l'écart avant de commencer et pendant tout le test."
   zh-tw: "受傷風險：請將雙手從方向盤上移開。開始前及整個測試期間，請讓雙手和手指保持遠離。"
 
@@ -152,6 +156,7 @@ _version: 2
   pt-pt: "O teste aplica duas forças curtas em direções opostas. Conclua e prima Guardar para manter a direção detetada para este volante."
   zh: "测试会施加两次方向相反的短促力。完成后按“保存”即可为该方向盘保留检测到的方向。"
   pl: "Test wywołuje dwa krótkie impulsy siły w przeciwnych kierunkach. Zakończ i naciśnij Zapisz, aby zachować wykryty kierunek dla tej kierownicy."
+  cs: "Test aplikuje dvě krátké síly v opačných směrech. Dokončete test a stisknutím Uložit zachováte zjištěný směr pro tento volant."
   fr: "Le test applique deux brèves forces en sens opposés. Terminez puis appuyez sur Enregistrer pour garder le sens détecté pour ce volant."
   zh-tw: "此測試在相反方向施加兩個短力。完成並按下儲存以保留偵測到的該輪子的方向。"
 
@@ -161,6 +166,7 @@ _version: 2
   pt-pt: "Iniciar teste"
   zh: "开始测试"
   pl: "Rozpocznij test"
+  cs: "Začít test"
   fr: "Lancer le test"
   zh-tw: "開始測試"
 
@@ -170,6 +176,7 @@ _version: 2
   pt-pt: "Força do teste"
   zh: "测试力度"
   pl: "Siła testu"
+  cs: "Síla testu"
   fr: "Force du test"
   zh-tw: "測試強度"
 
@@ -179,6 +186,7 @@ _version: 2
   pt-pt: "Se o volante quase não se mover, aumente a Força do teste e tente novamente. Mantenha as mãos afastadas."
   zh: "如果方向盘几乎不动,请增大测试力度并重试。请将您的双手远离方向盘。"
   pl: "Jeśli kierownica ledwo się porusza, zwiększ siłę testu i spróbuj ponownie. Trzymaj ręce z dala od kierownicy."
+  cs: "Pokud se volant téměř nepohne, zvyšte sílu testu a zkuste to znovu. Držte ruce v bezpečné vzdálenosti."
   fr: "Si le volant bouge à peine, augmentez la force du test et réessayez. Gardez les mains à l'écart."
   zh-tw: "如果方向盤幾乎不動，請提高測試強度後重試。請讓雙手保持遠離。"
 
@@ -188,6 +196,7 @@ _version: 2
   pt-pt: "O volante não se moveu o suficiente. Tente novamente ou escolha a direção manualmente."
   zh: "方向盘移动的幅度不够。请重试或手动选择方向。"
   pl: "Kierownica nie poruszyła się wystarczająco. Spróbuj ponownie lub wybierz kierunek ręcznie."
+  cs: "Volant se nepohnul dostatečně. Zkuste to znovu nebo zvolte směr ručně."
   fr: "Le volant n'a pas assez bougé. Réessayez ou choisissez le sens manuellement."
   zh-tw: "方向盤移動幅度不足。請重試或手動選擇方向。"
 
@@ -197,6 +206,7 @@ _version: 2
   pt-pt: "Direção detetada: normal"
   zh: "检测到的方向:正常"
   pl: "Wykryty kierunek: normalny"
+  cs: "Detekovaný směr: normální"
   fr: "Sens détecté : normal"
   zh-tw: "偵測到的方向：正常"
 
@@ -206,6 +216,7 @@ _version: 2
   pt-pt: "Direção detetada: invertida"
   zh: "检测到的方向:反转"
   pl: "Wykryty kierunek: odwrócony"
+  cs: "Zjištěný směr: invertovaný"
   fr: "Sens détecté : inversé"
   zh-tw: "偵測到的方向：反轉"
 
@@ -215,6 +226,7 @@ _version: 2
   pt-pt: "A testar: mantenha as mãos afastadas do volante…"
   zh: "正在测试:请勿握住方向盘…"
   pl: "Test trwa: nie dotykaj kierownicy…"
+  cs: "Testování: nedotýkejte se volantu…"
   fr: "Test en cours : ne touchez pas le volant…"
   zh-tw: "測試：雙手遠離方向盤…"
 
@@ -224,6 +236,7 @@ _version: 2
   pt-pt: "Se a deteção for inconclusiva, tente novamente ou escolha a direção manualmente. Pode alterá-la mais tarde na página deste dispositivo."
   zh: "如果测试结果不明确,请重试或手动选择方向。之后可在此设备的页面中更改。"
   pl: "Jeśli wykrywanie nie przyniesie jednoznacznego wyniku, spróbuj ponownie lub wybierz kierunek ręcznie. Możesz go później zmienić na stronie tego urządzenia."
+  cs: "Pokud je detekce nejednoznačná, zkuste to znovu nebo zvolte směr ručně. Později jej můžete změnit na stránce tohoto zařízení."
   fr: "Si la détection n'est pas concluante, réessayez ou choisissez le sens manuellement. Vous pourrez le changer plus tard sur la page de ce périphérique."
   zh-tw: "如果偵測沒有結果，請重試或手動選擇方向。您可以稍後在此裝置的頁面上進行變更。"
 
@@ -233,6 +246,7 @@ _version: 2
   pt-pt: "O teste foi interrompido. Tente novamente."
   zh: "测试已中断。请重试。"
   pl: "Test został przerwany. Spróbuj ponownie."
+  cs: "Test byl přerušen. Zkuste to prosím znovu."
   fr: "Le test a été interrompu. Veuillez réessayer."
   zh-tw: "測試被中斷。請再試一次。"
 
@@ -242,6 +256,7 @@ _version: 2
   pt-pt: "O volante não está disponível. Volte a ligá-lo e tente novamente."
   zh: "方向盘不可用。请重新连接后重试。"
   pl: "Kierownica jest niedostępna. Podłącz ją ponownie i spróbuj jeszcze raz."
+  cs: "Volant není k dispozici. Připojte jej znovu a zkuste to znovu."
   fr: "Le volant est indisponible. Reconnectez-le et réessayez."
   zh-tw: "方向盤無法使用。請重新連線後重試。"
 
@@ -251,6 +266,7 @@ _version: 2
   pt-pt: "Afaste o volante dos batentes de fim de curso e tente novamente."
   zh: "请将方向盘转离限位后再重试。"
   pl: "Odsuń kierownicę od ograniczników skrajnych i spróbuj ponownie."
+  cs: "Otočte volantem pryč od krajních dorazů a zkuste to znovu."
   fr: "Éloignez le volant de ses butées et réessayez."
   zh-tw: "請將方向盤移離兩端限位後重試。"
 
@@ -260,6 +276,7 @@ _version: 2
   pt-pt: "O volante não ficou imóvel. Solte-o e tente novamente."
   zh: "方向盘未能稳定。请松开后重试。"
   pl: "Kierownica nie ustabilizowała się. Puść ją i spróbuj ponownie."
+  cs: "Volant se neustálil. Pusťte jej a zkuste to znovu."
   fr: "Le volant ne s'est pas stabilisé. Lâchez-le et réessayez."
   zh-tw: "方向盤未穩定。請放手後重試。"
 
@@ -269,6 +286,7 @@ _version: 2
   pt-pt: "O volante moveu-se demasiado. Teste interrompido."
   zh: "方向盘转动幅度过大。测试已停止。"
   pl: "Kierownica obróciła się za daleko. Test zatrzymany."
+  cs: "Volant se otočil příliš daleko. Test zastaven."
   fr: "Le volant a trop tourné. Test arrêté."
   zh-tw: "方向盤移動幅度過大。測試已停止。"
 
@@ -278,6 +296,7 @@ _version: 2
   pt-pt: "O resultado é inconclusivo. Tente novamente ou escolha a direção manualmente."
   zh: "测试结果不明确。请重试或手动选择方向。"
   pl: "Wynik jest niejednoznaczny. Spróbuj ponownie lub wybierz kierunek ręcznie."
+  cs: "Výsledek je nejednoznačný. Zkuste to znovu nebo zvolte směr ručně."
   fr: "Le résultat n'est pas concluant. Réessayez ou choisissez le sens manuellement."
   zh-tw: "結果尚無定論。重試或手動選擇方向。"
 
@@ -287,6 +306,7 @@ _version: 2
   pt-pt: "O force feedback não está disponível. Escolha a direção manualmente."
   zh: "力反馈不可用。请手动选择方向。"
   pl: "Force feedback jest niedostępny. Wybierz kierunek ręcznie."
+  cs: "Force feedback není k dispozici. Zvolte směr ručně."
   fr: "Le retour de force est indisponible. Choisissez le sens manuellement."
   zh-tw: "力回饋不可用。手動選擇方向。"
 
@@ -1312,7 +1332,7 @@ _version: 2
   be: "Афарбоўка"
   kk: "Бояу үлгісі"
   pl: "Malowanie"
-  cs: "Polep"
+  cs: "Repaint"
   hu: "Festés"
   es: "Librea"
   pt: "Pintura"
@@ -1338,7 +1358,7 @@ _version: 2
   be: "Стандартная афарбоўка"
   kk: "Әдепкі бояу"
   pl: "Malowanie domyślne"
-  cs: "Výchozí lak"
+  cs: "Výchozí repaint"
   hu: "Alapértelmezett festés"
   es: "Pintura original"
   pt: "Pintura padrão"
@@ -2092,7 +2112,7 @@ _version: 2
   be: "Гульня па LAN"
   kk: "LAN ойыны"
   pl: "Gra w sieci LAN"
-  cs: "Hra po LAN"
+  cs: "Hrát přes LAN"
   hu: "LAN-játék"
   es: "Juego en LAN"
   pt: "Jogo em LAN"
@@ -2144,7 +2164,7 @@ _version: 2
   be: "Хост"
   kk: "Хост"
   pl: "Host"
-  cs: "Hostit"
+  cs: "Založit"
   hu: "Hosztolás"
   es: "Anfitrión"
   pt: "Anfitrião"
@@ -2170,7 +2190,7 @@ _version: 2
   be: "Далучыцца"
   kk: "Қосылу"
   pl: "Dołącz"
-  cs: "Připojit"
+  cs: "Připojit se"
   hu: "Csatlakozás"
   es: "Unirse"
   pt: "Entrar"
@@ -2222,7 +2242,7 @@ _version: 2
   be: "Калі гульня запусціцца, на старонцы «Сесіі» з'явіцца код сесіі з кнопкай капіявання; сябар устаўляе яго ў поле «Далучыцца». Працуе дома і праз інтэрнэт - VPN не патрэбны."
   kk: "Ойын іске қосылғаннан кейін Сессиялар бетінде көшіру түймесі бар сессия коды көрсетіледі; досыңыз оны Қосылу өрісіне қояды. Ол үйде де, интернетте де жұмыс істейді - VPN қажет емес."
   pl: "Gdy gra ruszy, strona Sesje pokaże kod sesji z przyciskiem kopiowania; znajomy wkleja go w polu Dołącz. Działa w domu i przez internet - bez VPN."
-  cs: "Po spuštění hry zobrazí stránka Relace kód relace s tlačítkem pro kopírování; kamarád ho vloží do Připojit. Funguje doma i přes internet - bez VPN."
+  cs: "Po spuštění hry zobrazí stránka Relace kód relace s tlačítkem pro kopírování; kamarád ho vloží do Připojit Se. Funguje doma i přes internet - bez VPN."
   hu: "A játék indulása után a Munkamenetek oldal megmutatja a kódot a Másolás gombbal; a játékostársad ezt be tudja illeszteni a Csatlakozás mezőbe. Otthon és interneten át is működik - VPN nélkül."
   es: "Cuando el juego se está ejecutando, la página Sesiones muestra el código de sesión con un botón de copiar; tu amigo lo pega en Unirse. Funciona en casa y por internet, sin VPN."
   pt: "Com o jogo em execução, a página Sessões mostra o código da sessão com um botão de copiar; seu amigo cola em Entrar. Funciona em casa e pela internet, sem VPN."
@@ -2274,7 +2294,7 @@ _version: 2
   be: "Тыпова для мапы"
   kk: "Картадағы әдепкі"
   pl: "Domyślna mapy"
-  cs: "Výchozí mapy"
+  cs: "Výchozí dle mapy"
   hu: "Pályán alapértelmezett"
   es: "Predeterminado del mapa"
   pt: "Padrão do mapa"
@@ -2716,7 +2736,7 @@ _version: 2
   be: "Гульня ўжо запушчана (яе акно можа быць ззаду гэтага - гл. «Сесіі»). Націсніце яшчэ раз, каб усё роўна запусціць яшчэ адну."
   kk: "Ойын қазірдің өзінде жұмыс істеп тұр (терезесі осының артында болуы мүмкін - Сессияларды қараңыз). Бәрібір тағы біреуін бастау үшін қайта басыңыз."
   pl: "Gra już działa (jej okno może być za tym - zobacz Sesje). Kliknij ponownie, aby mimo to uruchomić kolejną."
-  cs: "Hra už běží (její okno může být za tímto - viz Relace). Klepnutím znovu přesto spustíte další."
+  cs: "Hra už běží (její okno může být za tímto - viz Relace). Kliknutím znovu přesto spustíte další."
   hu: "Már fut egy játékmenet (az ablaka lehet, hogy e mögött van - lásd Munkamenetek). Kattints mégegyszer, hogy mindenképpen újat indíts!"
   es: "Ya hay una partida en marcha (su ventana puede estar detrás de esta; mira Sesiones). Haz clic de nuevo para iniciar otra igualmente."
   pt: "Já há uma partida em andamento (a janela pode estar atrás desta; veja Sessões). Clique de novo para iniciar outra mesmo assim."
@@ -3184,7 +3204,7 @@ _version: 2
   be: "Вадзіцель, чыю асабістую справу вядзе гульня: гадзіны, кіламетры, пунктуальнасць, білеты."
   kk: "Ойын жеке іс парағын жазатын жүргізуші: сағаттар, километрлер, тұрақтылық, билеттер."
   pl: "Kierowca, dla którego gra prowadzi akta osobowe: godziny, kilometry, punktualność, bilety."
-  cs: "Řidič, jehož osobní spis hra vede: hodiny, kilometry, dochvilnost, jízdenky."
+  cs: "Řidič, jehož osobní spis hra vede: hodiny, kilometry, Dodržování řádu a jízdenky."
   hu: "A sofőr, akinek a személyi lapját a játék vezeti: Órák, kilométerek, pontosság, jegyeladások és sok más."
   es: "El conductor cuyo expediente escribe el juego: horas, kilómetros, puntualidad, billetes."
   pt: "O motorista cujo registro o jogo mantém: horas, quilômetros, pontualidade e passagens."
@@ -3236,7 +3256,7 @@ _version: 2
   be: "Націсніце яшчэ раз, каб выдаліць"
   kk: "Жою үшін қайта басыңыз"
   pl: "Kliknij ponownie, aby usunąć"
-  cs: "Klepnutím znovu smažete"
+  cs: "Klikněte znovu pro smazání"
   hu: "Kattints újra a törléshez"
   es: "Haz clic de nuevo para borrar"
   pt: "Clique novamente para excluir"
@@ -3556,6 +3576,7 @@ _version: 2
   tl: "Driving score (0 ang pinakamahusay)"
 "comfort":
   zh: "舒适度"
+  cs: "komfort"
 "ticket selling":
   ru: "продажа билетов"
   de: "Fahrscheinverkauf"
@@ -3584,6 +3605,7 @@ _version: 2
   tl: "Pagbebenta ng tiket"
 "runs":
   zh: "行车数"
+  cs: "Jízdy"
 "Recent runs":
   ru: "Последние поездки"
   de: "Letzte Fahrten"
@@ -3696,7 +3718,7 @@ _version: 2
   be: "Vanilla (як у OMSI 2)"
   kk: "Vanilla (OMSI 2 сияқты)"
   pl: "Vanilla (jak w OMSI 2)"
-  cs: "Vanilla (jako OMSI 2)"
+  cs: "Vanilla (jako v OMSI 2)"
   hu: "Vanilla/Gyári (mint az OMSI 2)"
   es: "Vanilla (como OMSI 2)"
   pt: "Vanilla (como no OMSI 2)"
@@ -3846,7 +3868,7 @@ _version: 2
   be: "Аўто"
   kk: "Авто"
   pl: "Auto"
-  cs: "Auto"
+  cs: "Automatický"
   hu: "Automatikus"
   es: "Auto"
   pt: "Auto"
@@ -4106,7 +4128,7 @@ _version: 2
   be: "Далёкасць агляду"
   kk: "Көру қашықтығы"
   pl: "Zasięg widzenia"
-  cs: "Dohlednost"
+  cs: "Vzdálenost vykreslování"
   hu: "Látótávolság"
   es: "Distancia de visión"
   pt: "Distância de visão"
@@ -4770,7 +4792,7 @@ _version: 2
   be: "Частата кадраў у куце"
   kk: "Бұрыштағы кадр жиілігі"
   pl: "Liczba klatek w rogu"
-  cs: "Snímková frekvence v rohu"
+  cs: "Snímková frekvence (fps) v rohu"
   hu: "FPS-szám a sarokban"
   es: "Tasa de fotogramas en la esquina"
   pt: "Taxa de quadros no canto"
