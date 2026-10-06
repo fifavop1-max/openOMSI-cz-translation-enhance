@@ -10301,7 +10301,6 @@ _version: 2
   pl: "Kopiuj kod serwera"
   cs: "kopírovat kód serveru"
   zh-tw: "複製伺服器程式碼"
-  zh-tw: "複製連線碼"
 "Server code copied":
   ca: "Codi del servidor copiat"
   de: "Servercode kopiert"
